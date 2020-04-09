@@ -1,4 +1,4 @@
-# Plataforma de desesafios da Code.education
+# Plataforma de desafios da Code.education
 
 ## Objetivo
 
